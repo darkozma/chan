@@ -1,0 +1,6 @@
+#EXTM3U url-tvg="https://raw.githubusercontent.com/davidmuma/EPG_dobleM/master/guiatv.xml, https://raw.githubusercontent.com/Icastresana/lista1/main/epg.xml"
+#EXTINF:-1,M+ Deportes
+plugin://script.module.horus?action=play&id=acb510858f34c3c6fd5f79395b031abd6885c2b3
+#EXTINF:-1,Eurosport1
+plugin://script.module.horus?action=play&id=cfa75ade53810dac64411b22d56c3d4582a221d3
+
