@@ -1,4 +1,152 @@
-{"channels":[
-{"name":"M+ Deportes","url":"acb510858f34c3c6fd5f79395b031abd6885c2b3","cat":"Deporte"},
-{"name":"Eurosport1","url":"cfa75ade53810dac64411b22d56c3d4582a221d3","cat":"Deporte"}
-]}
+{"canales":[ {"name":"DAZN LaLiga
+1080","url":"e2b8a4aba2f4ea3dd68992fcdb65c9e62d910b05","cat":"Deporte"}, {"name":"DAZN LaLiga 720","url":"4e6d9cf7d177366045d33cd8311d8b1d7f4bed1f","cat":"Deporte"},{"name":"New Era I","url":"f8d5e39a49b9da0215bbd3d9efb8fb3d06b76892","cat":"Deporte"},
+{"name":"New Era I","url":"520950d296c952e1864a08e15af9f89f1ab514ec","cat":"Deporte"},{"name":"DAZN LaLiga 2 1080","url":"a231b2fa1f7754433efeb8bb8d69d7b9096dcba8","cat":"Deporte"},
+{"name":"DAZN LaLiga 2 720","url":"c976c7b37964322752db562b4ad65515509c8d36","cat":"Deporte"},
+{"name":"DAZN LaLiga 2 New Era I","url":"635b61c1f240449163260cd914d10d886a54fee3","cat":"Deporte"},
+{"name":"DAZN LaLiga 2 New Era I","url":"ae16a8f004b1287ee1f53263ab265f72bba0daf5","cat":"Deporte"},
+{"name":"M+ LALIGA 1080","url":"00c9bc9c5d7d87680a5a6bed349edfa775a89947","cat":"Deporte"},
+{"name":"M+ LALIGA 1080","url":"c9321006921967d6258df6945f1d598a5c0cbf1e","cat":"Deporte"},
+{"name":"M+ LALIGA 1080","url":"4b528d10eaad747ddf52251206177573ee3e9f74","cat":"Deporte"},
+{"name":"M+ LALIGA 720","url":"14b6cd8769cd485f2cffdca64be9698d9bfeac58","cat":"Deporte"},
+{"name":"M+ LALIGA Estable","url":"cc9b7f5fe416069a2110da0909b0f915043c468b","cat":"Deporte"},
+{"name":"M+ LALIGA New Era I","url":"07f2b92762cfff99bba785c2f5260c7934ca6034","cat":"Deporte"},
+{"name":"M+ LALIGA New Era I","url":"c32a2cf4631bad4bc40a15ee0f245ed30ad4d85c","cat":"Deporte"},
+{"name":"M+ LALIGA 2 1080","url":"51b363b1c4d42724e05240ad068ad219df8042ec","cat":"Deporte"},
+{"name":"M+ LALIGA 2 720","url":"ad42faa399df66dcd62a1cbc9d1c99ed4512d3b8","cat":"Deporte"},
+{"name":"M+ LALIGA 3 1080","url":"7ad14386deef2f45ffe17d30a631dbf79b6a1a87","cat":"Deporte"},
+{"name":"M+ LALIGA 3 720","url":"382b14499e3d76e557d449d2e5bbc4e4bd63bd39","cat":"Deporte"},
+{"name":"LALIGA TV Hypermotion
+1080","url":"87bb542f974b6b9e89d0f2e20ed6dc93426f4be0","cat":"Deporte"},
+{"name":"LALIGA TV Hypermotion 720","url":"a4f072c9b614323ac1258a175f868a909ea3c8cd","cat":"Deporte"},
+{"name":"LALIGA TV Hypermotion New Era I","url":"f15f997f457e49ad9697e65cf2d78db26ee875b9","cat":"Deporte"},
+{"name":"LALIGA TV Hypermotion 2 1080","url":"709075831bf5c41ed0a20dfbd640aab6c28971f8","cat":"Deporte"},
+{"name":"LALIGA TV Hypermotion 3
+1080","url":"778d2f60bb7207addedcca0b9aed98f41529724e","cat":"Deporte"},
+{"name":"Movistar Plus+
+1080","url":"1ab443f5b4beb6d586f19e8b25b9f9646cf2ab78","cat":"Deporte"},
+{"name":"Movistar Plus+ New Era I","url":"8c67cdb5ba81976662c3a67984a9545d9cfb0f70","cat":"Deporte"},
+{"name":"Movistar Plus+ New Era I","url":"b6ffbbc72a5b6b579faf79ebac229af7a25b933b","cat":"Deporte"},
+{"name":"Movistar Plus+ New Era I","url":"5d9a26e0a5f3e5f2ae027bd05635ab9a4fd4b51a","cat":"Deporte"},
+{"name":"Movistar Plus+ New Era I","url":"a340c77b773a4a78a6c9aa25245a02698e05ac1a","cat":"Deporte"},
+{"name":"GOL New Era I","url":"b2d560741c006fc5e4a42412bb52dbd25a6a4a3a","cat":"Deporte"},
+{"name":"GOL New Era I","url":"9fb99c40a2c45d5c5342b30626eb56140f980612","cat":"Deporte"},
+{"name":"GOL New Era I","url":"73094658f0a3ed523c0e188de67a7a690c0d4f93","cat":"Deporte"},
+{"name":"GOL New Era I","url":"472d1f3a658a51bcab0ffa9138e1e28a05fba30b","cat":"Deporte"},
+{"name":"DAZN New Era I","url":"181fcc443b953d54b00a1bf6320ccbb097e85d64","cat":"Deporte"},
+{"name":"DAZN New Era I","url":"ca20f93ea5d9c15744e48a21b52598b9fce87425","cat":"Deporte"},
+{"name":"DAZN 1
+1080","url":"eb6ffec065b26259ad3d1811e0bbb0a5332ed276","cat":"Deporte"},
+{"name":"DAZN 1
+Estable","url":"d5b2c6b940cf3df5e8f9dc6f000f0ea23a10b151","cat":"Deporte"},
+{"name":"DAZN 1 New Era I","url":"6538b79ce0da657d8455d1da6a5f342398899a0e","cat":"Deporte"},
+{"name":"DAZN 1 New Era I","url":"50a8a13c474848d1efbd5586efdb5b6cdd173fa9","cat":"Deporte"},
+{"name":"DAZN 1 New Era I","url":"4141892f5df7d6474bf0279895ce02b7336c9928","cat":"Deporte"},
+{"name":"DAZN 1 New Era I","url":"ee4dc45720d3ec283f61189fbfc120c91d5141bf","cat":"Deporte"},
+{"name":"DAZN 1 New Era I","url":"688e785893b50acc1d00cb37f15bfc42e72f5ae3","cat":"Deporte"},
+{"name":"DAZN 2
+1080","url":"ae68a0835039fab28fd2314108fabd4fab33b8ab","cat":"Deporte"},
+{"name":"DAZN 2 Estable","url":"b0eabe0fdd02fdd165896236765a9b753a2ff516","cat":"Deporte"},
+{"name":"DAZN 2 New Era I","url":"8b081c8afbd9beafc8c5fbf0115eb36eadb07a35","cat":"Deporte"},
+{"name":"DAZN 2 New Era I","url":"fb2dd566824658eeab27aae19a01c09430f1a97d","cat":"Deporte"},
+{"name":"DAZN 2 New Era I","url":"2f9211669499f413dab1a490198afab2a9b4b57c","cat":"Deporte"},
+{"name":"DAZN 3
+Estable","url":"d1d9ec2361a6ac8edc0b2841866383768cc28df9","cat":"Deporte"},
+{"name":"DAZN 3 New Era I","url":"d641cd0fca0f467b3130754a091e2f4d22e68eb1","cat":"Deporte"},
+{"name":"DAZN 3 New Era I","url":"8a86cd6152154a25ad4b76523160552a40313b28","cat":"Deporte"},
+{"name":"M+ Liga de Campeones
+1080","url":"97df5b7824948972d041d8ca2a4d29c90b641bc9","cat":"Deporte"},
+{"name":"M+ Liga de Campeones
+1080","url":"2b51710cee513e8939785fa3e7980f32d4e0415f","cat":"Deporte"},
+{"name":"M+ Liga de Campeones
+1080","url":"9db029dff6a9c637d1f670e78dbc1a479b9b406e","cat":"Deporte"},
+{"name":"M+ Liga de Campeones
+720","url":"b028202ff335911db3118bceac027df3e8ef6c32","cat":"Deporte"},
+{"name":"M+ Liga de Campeones
+Estable","url":"e572a5178ff72eed7d1d751a18b4b3419699f370","cat":"Deporte"},
+{"name":"M+ Liga de Campeones New Era I","url":"778f08cbae9596ed9e8b2ae0af33ee7a6fe24c6a","cat":"Deporte"},
+{"name":"M+ Liga de Campeones New Era I","url":"afbf2a479c5a5072698139f0f556ef3e77a99bd0","cat":"Deporte"},
+{"name":"M+ Liga de Campeones New Era I","url":"680187938f9305cce3ae240298f10e8695bf77c2","cat":"Deporte"},
+{"name":"M+ Liga de Campeones New Era I","url":"5c15c639207a080183b12fa63282b409c07401d6","cat":"Deporte"},
+{"name":"M+ Liga de Campeones 2 
+1080","url":"74ab4e4ec7e2da001f473ca40893b7307b8029c5","cat":"Deporte"},
+{"name":"M+ Liga de Campeones 2 720","url":"38f7b2044e549df2039ff26cefa6f9a60c854d5e","cat":"Deporte"},
+{"name":"M+ Liga de Campeones 2 New Era I","url":"c6a3673f6a37b1bd3cf31fdd6404dd33d48cfccb","cat":"Deporte"},
+{"name":"M+ Liga de Campeones 2 New Era I","url":"33c009a025508cb2186b9ce36279640bb2507bdf","cat":"Deporte"},
+{"name":"M+ Liga de Campeones 3
+1080","url":"4416843c96b7f7a1bc55c476091a60fff0922bc7","cat":"Deporte"},
+{"name":"M+ Liga de Campeones 3
+720","url":"cfc371890bfb502737a26de5215e50929c52d0f9","cat":"Deporte"},
+{"name":"M+ Liga de Campeones 3 New Era I","url":"17b8bc4bf8e29547b0071c742e3d7da3bcbc484d","cat":"Deporte"},
+{"name":"M+ Liga de Campeones 3 New Era I","url":"b96a9b23b5343ca748e126c9257f42e204d3f52c","cat":"Deporte"},
+{"name":"M+ Vamos 1080","url":"c7c81acdd1a03ecc418c94c2f28e2adb0556c40b","cat":"Deporte"},
+{"name":"M+ Vamos 720","url":"0e5d8c9724fa9163f49096b70484e315251eb785","cat":"Deporte"},
+{"name":"M+Vamos New Era I","url":"3b2a8b41e7097c16b0468b42d7de0320886fa933","cat":"Deporte"},
+{"name":"M+Vamos New Era I","url":"2940120bf034db79a7f5849846ccea0255172eae","cat":"Deporte"},
+{"name":"M+Vamos New Era I ","url":"651d6be899d1fafa107a265a9dc00ff914c1b548","cat":"Deporte"},
+{"name":"M+Vamos New Era I ","url":1444a976d2cf6e7fdcee833ed36ee5e55632253","cat":"Deporte"},
+{"name":"Eurosport 1
+1080","url":"c3da6c4f91d9d10ade00318a869435e19f204d0e","cat":"Deporte"},
+{"name":"Eurosport 1
+720","url":"d830c1dc3b74e74f79cbb823804cf2037857e78a","cat":"Deporte"},
+{"name":"Eurosport 1 Estable","url":"cfa75ade53810dac64411b22d56c3d4582a221d3","cat":"Deporte"},{"name":"Eurosport 1 Estable","url":"1b0bc4d4dcd609d3c092712e721392b199f50a62","cat":"Deporte"},
+{"name":"Eurosport 1 New Era I","url":"bae98f69fbf867550b4f73b4eb176dae84d7f909","cat":"Deporte"},
+{"name":"Eurosport 1 New Era I","url":"714e14e6d6e27660fd25a75b57b0ac5580fe705d","cat":"Deporte"},
+{"name":"Eurosport 1 New Era I","url":"704e51760a644bc90aa22269bf84139947a0414a","cat":"Deporte"},
+{"name":"Eurosport 2
+1080","url":"0585e09bb8ac9720e4c11934f1b184e309291551","cat":"Deporte"},
+{"name":"Eurosport 2
+720","url":"5c910d614894635153a7d42de98cc2e4a958a53f","cat":"Deporte"},
+{"name":"Eurosport 2 NewÂ  Era I","url":"dc4ccb9e72550bc72be9360aa7d77e337ad11ecc","cat":"Deporte"},
+{"name":"Eurosport 2 NewÂ  Era I","url":"2773b39926d15dd3d9495d94c4050604792d7031","cat":"Deporte"},
+{"name":"Esport 3 New Era I","url":"181fcc443b953d54b00a1bf6320ccbb097e85d64","cat":"Deporte"},
+{"name":"Esport 3 New Era I","url":"ca20f93ea5d9c15744e48a21b52598b9fce87425","cat":"Deporte"},
+{"name":"Movistar Golf
+Estable","url":"872608e734992db636eb79426802cd08f4029afb","cat":"Deporte"},
+{"name":"Movistar Golf New Era I","url":"8546cff89e4ee8bf3ad31cf6457c3bc2c4341031","cat":"Deporte"},
+{"name":"Movistar Golf New Era I","url":"9be118a64eb603b5eb62be6cf27631d3891b5174","cat":"Deporte"},
+{"name":"Movistar Golf New Era I","url":"76a69812c66bfc4899e89df498220588a56e6064","cat":"Deporte"},
+{"name":"Movistar Golf 2 New Era I","url":"96e82321c731e41768a806992ee4d3b9b7a0e7d7","cat":Deporte"},
+{"name":"Teledeporte New Era I","url":"138b30c93e8a780ac490a4f6d2181c41f3670230","cat":"Deporte"},
+{"name":"M+ Deportes
+1080","url":"ebca4a63ce3bfda7b272964a1acc5227218184a4","cat":"Deporte"},
+{"name":"M+ Deportes
+720","url":"2f3cfd199a49819cbd129689a840dc3d23ab93aa","cat":"Deporte"},
+{"name":"M+ Deportes
+Estable","url":"acb510858f34c3c6fd5f79395b031abd6885c2b3","cat":"Deporte"},
+{"name":"M+ Deportes New Era I","url":"ef9dcc4eaac36a0f608b52a31f8ab237859e071a","cat":"Deporte"},
+{"name":"M+ Deportes New Era I","url":"332d8fdeb9c51385230b8c9448e047ccc4a6355d","cat":"Deporte"},
+{"name":"M+ Deportes New Era I","url":"9099f519dd9b6b6f74f105477ff545829a110415","cat":"Deporte"},
+{"name":"M+ Deportes New Era I","url":"751b9cb03d188ce70e6aac22c1bfb16a5d0b2237","cat":"Deporte"},
+{"name":"M+ Deportes 2
+1080","url":"f0ee7a2b43c1df5ea9e4fac5bf876d5bef4372b0","cat":"Deporte"},
+{"name":"M+ Deportes 2
+720","url":"bfa01c11c5c6b7a616a516de4f2c769a89d26b25","cat":"Deporte"},
+{"name":"M+ Deportes 2 New Era I","url":"edd06f11e1cef292a1d795e15207ef2f580e298c","cat":"Deporte"},
+{"name":"M+ Deportes 2 New Era I","url":"438991226c3bc6a06e7bfda9bea9f769957dc366","cat":"Deporte"},
+{"name":"M+ Deportes 3
+1080","url":"799c6b5ee1cf41af077d14e3f9c45a32697eb903","cat":"Deporte"},
+{"name":"M+ Deportes 3
+720","url":"2fd410c5d89e7a627cd3785685b7915b8e4bd534","cat":"Deporte"},
+{"name":"M+ Deportes 4
+1080","url":"b40e1de2dcbd7c665f54877b14c830ed67b32a96","cat":"Deporte"},
+{"name":"M+ Deportes 4 New Era I","url":"58a4c880ab18486d914751db32a12760e74b75a4","cat":"Deporte"},
+{"name":"M+ Deportes 4 New Era I","url":"3f97bafa133b10cfe5c62311e11501326d886a53","cat":"Deporte"},
+{"name":"M+ Deportes 4 New Era I","url":"ebf3f251c1e119aefc6a1efc95c9b5d1909249e2","cat":"Deporte"},
+{"name":"M+ Deportes 5
+1080","url":"b40e1de2dcbd7c665f54877b14c830ed67b32a96","cat":"Deporte"},
+{"name":"M+ Deportes 5
+1080","url":"7b361369a40046ad3011086f9d4ae2982fb4d5aa","cat":"Deporte"},
+{"name":"DAZN F1 1080","url":"b08e158ea3f5c72084f5ff8e3c30ca2e4d1ff6d1","cat":"Deporte"},
+{"name":"DAZN F1 1080","url":"bcf9dc38f92e90a71b87bd54b3bac91b76d09a69","cat":"Deporte"},
+{"name":"DAZN F1 1080","url":"fd53cfa7055fe458d4f5c0ff59a06cd43723be55","cat":"Deporte"},
+{"name":"DAZN F1 
+720","url":"ed6188dcbb491efeb2092c1a6199226c27f61727","cat":"Deporte"},
+{"name":"DAZN F1New Era I","url":"c8ad94585fbe13cfc9074c2b5e23fb6344e0f66d","cat":"Deporte"},
+{"name":"DAZN F1New Era I","url":"6422e8bc34282871634c81947be093c04ad1bb29","cat":"Deporte"},
+{"name":"DAZN F1New Era I","url":"515efd8115482bda8d92aa6df9a882a5e5797494","cat":"Deporte"},
+{"name":"DAZN F1New Era I","url":"82b4f249788f93b8f9ce968803662d7cd4f1b8cc","cat":"Deporte"},
+{"name":"DAZN F1New Era I","url":"d5cf2dfa4fb4165ce58bf9db815088c28fec7711","cat":"Deporte"},
+{"name":"DAZN F1New Era I","url":"8c1155cdfae76eb582290c04904c98da066657c9","cat":"Deporte"},
+{"name":"DAZN F1New Era I","url":"ba6e1bdc8e03da60ff572557645eb04370af0cd0","cat":"Deporte"},
+{"name":"RallyTv New Era I","url":"651dd1e689a9a7d3b0695191dcf44b4d6e7541eb","cat":"Deporte"},
+{"name":"RallyTv New Era III","url":"8e96e35afd910d1a056dc7bf25139b8e2849b2ea","cat":"Deporte"}]}
