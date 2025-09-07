@@ -193,6 +193,8 @@ plugin://script.module.horus?action=play&id=76a69812c66bfc4899e89df498220588a56e
 plugin://script.module.horus?action=play&id=96e82321c731e41768a806992ee4d3b9b7a0e7d7
 #EXTINF:-1,Teledeporte Nueva Era I
 plugin://script.module.horus?action=play&id=138b30c93e8a780ac490a4f6d2181c41f3670230
+#EXTINF:-1,Teledeporte Nueva Era I
+plugin://script.module.horus?action=play&id=bdc32e0f99653f96e0e1a3b98c88764b631ed9ef
 #EXTINF:-1,M+ Deportes 1080
 plugin://script.module.horus?action=play&id=ebca4a63ce3bfda7b272964a1acc5227218184a4
 #EXTINF:-1,M+ Deportes 720
