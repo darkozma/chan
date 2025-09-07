@@ -43,6 +43,8 @@ plugin://script.module.horus?action=play&id=87bb542f974b6b9e89d0f2e20ed6dc93426f
 plugin://script.module.horus?action=play&id=a4f072c9b614323ac1258a175f868a909ea3c8cd
 #EXTINF:-1,LALIGA TV Hypermotion New Era I
 plugin://script.module.horus?action=play&id=f15f997f457e49ad9697e65cf2d78db26ee875b9
+#EXTINF:-1,LaLIGA TV Hypermotion
+plugin://script.module.horus?action=play&id=8ee52f6208e33706171856f99d2ed2dabd317f3a
 #EXTINF:-1,LALIGA TV Hypermotion 2 1080
 plugin://script.module.horus?action=play&id=709075831bf5c41ed0a20dfbd640aab6c28971f8
 #EXTINF:-1,LALIGA TV Hypermotion 3 1080
@@ -259,10 +261,14 @@ plugin://script.module.horus?action=play&id=d5cf2dfa4fb4165ce58bf9db815088c28fec
 plugin://script.module.horus?action=play&id=8c1155cdfae76eb582290c04904c98da066657c9
 #EXTINF:-1,DAZN F1New Era I
 plugin://script.module.horus?action=play&id=ba6e1bdc8e03da60ff572557645eb04370af0cd0
+#EXTINF:-1,DAZN F1 Estable
+plugin://script.module.horus?action=play&id=c0ce08172e4b8a0eb5d4229538a091c64c8532b9
 #EXTINF:-1,DAZN F1New Era I
 plugin://script.module.horus?action=play&id=c9c18ae7a9dafba1caae5beb22060f9c92bba553
 #EXTINF:-1,DAZN F1New Era I
 plugin://script.module.horus?action=play&id=4bc6f4cb6697c1defc981c0afe1a4c3a62284aee
+#EXTINF:-1,Tennis Channel
+plugin://script.module.horus?action=play&id=8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
 #EXTINF:-1,Tennis Channel
 plugin://script.module.horus?action=play&id=039fae21c9e7e5214d3d898cba80863e37e623ac
 #EXTINF:-1,Tennis Channel
